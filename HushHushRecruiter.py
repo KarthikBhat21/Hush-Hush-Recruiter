@@ -212,7 +212,7 @@ def sendMail(shortlistedMails):
     # Q3 = Question3.get(1.0, END)
 
     gmail_user = 'hushhush.rec@gmail.com'
-    gmail_password = 'Hushhush@123'
+    gmail_password = "YOUR GMAIL PASSWORD"
     test = '1.task1<br/>2.task2<br/>'
     sent_from = gmail_user
     #to = ['rimy5693@gmail.com', 'karthikbhat.sit@gmail.com']
